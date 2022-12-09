@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tesla-Clone/static/css/main.1516900a.css",
+    "main.js": "/Tesla-Clone/static/js/main.98961639.js",
+    "static/js/787.3b70ba07.chunk.js": "/Tesla-Clone/static/js/787.3b70ba07.chunk.js",
+    "static/media/logo.svg": "/Tesla-Clone/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/Tesla-Clone/index.html",
+    "main.1516900a.css.map": "/Tesla-Clone/static/css/main.1516900a.css.map",
+    "main.98961639.js.map": "/Tesla-Clone/static/js/main.98961639.js.map",
+    "787.3b70ba07.chunk.js.map": "/Tesla-Clone/static/js/787.3b70ba07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1516900a.css",
+    "static/js/main.98961639.js"
+  ]
+}
